@@ -1,6 +1,6 @@
 {
   "name": "nuxt-acl",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "ACL module for Nuxt.js",
   "repository": "vrwebdesign/nuxt-acl",
   "license": "MIT",
